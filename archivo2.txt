@@ -1,0 +1,3 @@
+
+Se borra texto para validar si se puede coordinar
+Esta es la prueba del archivo 2. No pude desde la terminal
